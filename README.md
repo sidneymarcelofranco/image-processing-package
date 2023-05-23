@@ -1,27 +1,29 @@
-# package_name
+# Projeto DIO: Pacote de Processamento de Imagens em Python
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+### Autora: Karina Kato
+### Disponível em: https://pypi.org/project/wallet-python-pacotes-imagens/
+### Repositório de exemplos do template: https://github.com/tiemi/
 
-## Installation
+---
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## Descomplicando a criação de pacotes de processamento de imagens em Python
 
-```bash
-pip install package_name
-```
 
-## Usage
+### O pacote "image_processing" é usado para:
 
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
+Módulo "Processing":
+- Correspondência de histograma;
+- Similaridade estrutural;
+- Redimensionar imagem;
 
-## Author
-My_name
+Módulo "Utils":
+- Ler imagem;
+- Salvar imagem;
+- Plotar imagem;
+- Plotar gráfico;
+- Plotar histograma;
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+### Resultado do processamento:
+
+<p align="left"><img src="./ex_img.jpg" width="800"></p>
